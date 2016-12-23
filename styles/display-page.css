@@ -1,0 +1,45 @@
+body{
+    font-size:0px;
+}
+
+section > div{
+    border: solid 1px black;
+}
+
+.container-all{
+    width:800px;
+    margin: auto;
+}
+
+.inner{
+    font-size:0px;
+    display:inline-block;
+}
+
+.top{
+    width:50%;
+    height:200px;
+}
+
+.top-one{
+    background-color:green;
+}
+
+.top-two{
+    background-color:purple;
+}
+
+.bottom{
+    width:33.33%;
+    height:300px;
+}
+
+.bottom-one{
+    background-color:gray;
+}
+.bottom-two{
+    background-color:black;
+}
+.bottom-three{
+    background-color:orange;
+}
